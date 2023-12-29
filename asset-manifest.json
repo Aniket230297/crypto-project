@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-project/static/css/main.820e9e94.css",
+    "main.js": "/crypto-project/static/js/main.344aa1a5.js",
+    "static/media/gradient.png": "/crypto-project/static/media/gradient.17a9e4f2bc18e4e30940.png",
+    "static/media/phone.png": "/crypto-project/static/media/phone.30b0f0234a4726e8d246.png",
+    "index.html": "/crypto-project/index.html",
+    "main.820e9e94.css.map": "/crypto-project/static/css/main.820e9e94.css.map",
+    "main.344aa1a5.js.map": "/crypto-project/static/js/main.344aa1a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820e9e94.css",
+    "static/js/main.344aa1a5.js"
+  ]
+}
